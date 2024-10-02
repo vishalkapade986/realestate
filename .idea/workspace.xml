@@ -31,6 +31,9 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/server/requirements.txt" root0="SKIP_INSPECTION" />
   </component>
@@ -51,6 +54,7 @@
     "Python.server.executor": "Debug",
     "Python.util.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/LENOVO/anaconda3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -162,7 +166,7 @@
       <workItem from="1727850201859" duration="751000" />
       <workItem from="1727851269361" duration="8023000" />
       <workItem from="1727862326910" duration="16387000" />
-      <workItem from="1727883338433" duration="1629000" />
+      <workItem from="1727883338433" duration="2218000" />
     </task>
     <servers />
   </component>
