@@ -1,0 +1,40 @@
+POST http://localhost:5000/predict_home_price
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-10-02T205913.400.html
+
+###
+
+POST http://localhost:5000/predict_home_price
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-10-02T205856.400.html
+
+###
+
+POST http://localhost:5000/predict_home_price
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-10-02T205847.400.html
+
+###
+
+POST http://localhost:5000/predict_home_price
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-10-02T205642.400.html
+
+###
+
